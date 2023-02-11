@@ -1,4 +1,4 @@
-# BolshieDannie_Ovsepyan
+# Big-Data-Storage-and-Processing-Tools
 
 Репозиторий практических работ. Отчеты.
 
